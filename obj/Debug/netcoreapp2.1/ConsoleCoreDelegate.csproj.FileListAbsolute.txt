@@ -1,0 +1,11 @@
+/Users/liam/Projects/ConsoleCoreDelegate/obj/Debug/netcoreapp2.1/ConsoleCoreDelegate.csprojAssemblyReference.cache
+/Users/liam/Projects/ConsoleCoreDelegate/obj/Debug/netcoreapp2.1/ConsoleCoreDelegate.csproj.CoreCompileInputs.cache
+/Users/liam/Projects/ConsoleCoreDelegate/obj/Debug/netcoreapp2.1/ConsoleCoreDelegate.AssemblyInfoInputs.cache
+/Users/liam/Projects/ConsoleCoreDelegate/obj/Debug/netcoreapp2.1/ConsoleCoreDelegate.AssemblyInfo.cs
+/Users/liam/Projects/ConsoleCoreDelegate/bin/Debug/netcoreapp2.1/ConsoleCoreDelegate.deps.json
+/Users/liam/Projects/ConsoleCoreDelegate/bin/Debug/netcoreapp2.1/ConsoleCoreDelegate.runtimeconfig.json
+/Users/liam/Projects/ConsoleCoreDelegate/bin/Debug/netcoreapp2.1/ConsoleCoreDelegate.runtimeconfig.dev.json
+/Users/liam/Projects/ConsoleCoreDelegate/bin/Debug/netcoreapp2.1/ConsoleCoreDelegate.dll
+/Users/liam/Projects/ConsoleCoreDelegate/bin/Debug/netcoreapp2.1/ConsoleCoreDelegate.pdb
+/Users/liam/Projects/ConsoleCoreDelegate/obj/Debug/netcoreapp2.1/ConsoleCoreDelegate.dll
+/Users/liam/Projects/ConsoleCoreDelegate/obj/Debug/netcoreapp2.1/ConsoleCoreDelegate.pdb
